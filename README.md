@@ -1,6 +1,6 @@
 # Academic Paper Text Extraction Tool
 
-This tool helps researchers automatically extract full text content from academic papers across multiple scholarly databases. It supports several major academic publishers and preprint servers, providing a streamlined way to collect paper content for research purposes.
+This tool helps researchers automatically extract full text content from academic papers across multiple scholarly databases. It supports several major academic publishers and preprint servers, providing a streamlined way to collect paper content for research purposes
 
 ## Features
 
